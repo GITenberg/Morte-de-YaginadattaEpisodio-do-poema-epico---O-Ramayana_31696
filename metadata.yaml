@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9395
     wikipedia: http://pt.wikipedia.org/wiki/C%C3%A2ndido_de_Figueiredo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31696#Morte-de-YaginadattaEpisodio-do-poema-epico---O-Ramayana
 gutenberg_issued: '2010-03-18'
 gutenberg_type: Text
 identifiers:
