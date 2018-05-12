@@ -1,0 +1,39 @@
+_repo: Morte-de-YaginadattaEpisodio-do-poema-epico---O-Ramayana_31696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: http://en.wikipedia.org/wiki/Valmiki
+  - agent_name: Figueiredo, Cândido de
+    aliases:
+    - Figueiredo, Antônio Candido de
+    - Figueiredo, Antonio Candido de
+    - Figueiredo, António Cândido de
+    - De Figueiredo, Cândido
+    birthdate: 1846
+    deathdate: 1925
+    gutenberg_agent_id: '9395'
+    url: http://www.gutenberg.org/2009/agents/9395
+    wikipedia: http://pt.wikipedia.org/wiki/C%C3%A2ndido_de_Figueiredo
+description: ''
+gutenberg_issued: '2010-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31696'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rama (Hindu deity) -- Poetry'
+- !lcc 'PK'
+title: 'Morte de Yaginadatta
+
+  Episodio do poema epico - O Ramayana'
+url: http://www.gutenberg.org/ebooks/31696
